@@ -18,4 +18,13 @@ The driving simulator would save frames from three front-facing "cameras", recor
   <img src="run.gif" alt="Driving"/>
 </p>
 
+@misc{Abhinav:2019,
+  Author = {Abhinav Sagar},
+  Title = {Self Driving Car},
+  Year = {2019},
+  Publisher = {GitHub},
+  Journal = {GitHub repository},
+  Howpublished = {\url{https://github.com/abhinavsagar/Self-Driving-Car}}
+}
+
 
