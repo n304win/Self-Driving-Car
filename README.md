@@ -18,6 +18,8 @@ The driving simulator would save frames from three front-facing "cameras", recor
   <img src="run.gif" alt="Driving"/>
 </p>
 
+## Citing
+
 ```
 @misc{Abhinav:2019,
   Author = {Abhinav Sagar},
