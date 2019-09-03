@@ -2,6 +2,8 @@
 
 Transfer learning for end to end autonomous driving using pre trained ResNet50 weights in google colab.
 
+Check out the corresponding medium blog post [https://medium.com/@abhinav.sagar/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb](https://medium.com/@abhinav.sagar/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb).
+
 ## Goal
 
 Train a end-to-end deep learning model that would let a car drive itself around the track in a driving simulator.
