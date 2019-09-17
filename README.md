@@ -2,7 +2,7 @@
 
 Transfer learning for end to end autonomous driving using pre trained ResNet50 weights in google colab.
 
-Check out the corresponding medium blog post [https://towardsdatascience.com/an-end-to-end-guide-for-getting-started-with-pandas-e401b9ffc256](https://towardsdatascience.com/an-end-to-end-guide-for-getting-started-with-pandas-e401b9ffc256).
+Check out the corresponding medium blog post [https://towardsdatascience.com/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb](https://towardsdatascience.com/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb).
 
 ## Goal
 
