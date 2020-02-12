@@ -1,6 +1,6 @@
 # Behavioral Cloning For Self Driving Cars
 
-Transfer learning for end to end autonomous driving using pre trained ResNet50 weights in google colab.
+Unofficial code for paper "End to End Learning for Self-Driving Cars"
 
 ## IMPORTANT
 
@@ -27,6 +27,12 @@ The driving simulator would save frames from three front-facing "cameras", recor
 <p align="center">
   <img src="run.gif" alt="Driving"/>
 </p>
+
+## References
+
+1. https://arxiv.org/pdf/1604.07316.pdf
+
+2. http://cs231n.stanford.edu/reports/2017/pdfs/626.pdf
 
 ## Citing
 
