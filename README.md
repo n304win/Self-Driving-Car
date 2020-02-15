@@ -1,6 +1,6 @@
 # Behavioral Cloning For Self Driving Cars
 
-Unofficial code for paper "End to End Learning for Self-Driving Cars"
+Implementation of the paper "End to End Learning for Self-Driving Cars"
 
 ## IMPORTANT
 
